@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: FonteLogo;
-    src: url("../../projeto-chromecast-html5/_fonts/Righteous-Regular..ttf");
+    src: url("../_fonts/Righteous-Regular..otf");
 }
 
 body{
-    background: url("../_imagens/bckgnd.png") ;
+    background-color: white ;
     color: black;
     font-family: Arial, sans-serif;
 }
