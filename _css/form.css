@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.corpo-contato{
+    width: 1390px;
+    padding: 5px;
+}
+
+input#cEnviar{
+    padding: 5px;
+    margin: 10px;
+    text-shadow: black;
+    width: 150px;
+    height: 80px;
+}
+

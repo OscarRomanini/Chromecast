@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.corpo-multimidia{
+    width: 1400px;
+}
+
+div#tv{
+    background: url("../_imagens/tv.png")no-repeat;
+    width: 960px;
+    height: 604px;
+    display: block;
+    margin: 20px auto 20px auto;
+}
+div#tv iframe#video-media{
+    margin: 21px;
+    width: 920px;
+    height: 480px;
+}
